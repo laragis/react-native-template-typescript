@@ -26,7 +26,7 @@
 ## :arrow_forward: Usage
 
 ```sh
-npx react-native init MyApp --template react-native-template-typescript
+npx react-native init MyApp --template https://github.com/laragis/react-native-template-typescript.git
 ```
 
 ### Usage with older versions of React Native
